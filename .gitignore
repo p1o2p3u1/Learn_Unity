@@ -1,0 +1,31 @@
+# ---------------[ Unity generated ]------------------ #
+# ---------------[ Roll a Ball ] --------------------- #
+/Roll a Ball/Temp
+/Roll a Ball/obj
+/Roll a Ball/UnityGenerated
+/Roll a Ball/Library
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
